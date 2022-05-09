@@ -7,6 +7,7 @@ Colonoscopy is a gold standard procedure but is highly operator-dependent. Autom
 <img src="images/TGANet-architecture.png">
 
 ## Quantative Results
+<img src="images/Quantative.png">
 
 ## Qualitative Results
 <img src="images/TGA-PolySeg-Qualitative.jpg">

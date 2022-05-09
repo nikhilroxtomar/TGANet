@@ -13,5 +13,14 @@ Colonoscopy is a gold standard procedure but is highly operator-dependent. Autom
 <img src="images/TGA-PolySeg-Qualitative.jpg">
 
 ## Citation
+<pre>
+@inproceedings{tomar2022,
+title={TGANet: Text-guided attention for improved polyp segmentation},
+author={Tomar, Nikhil Kumar and Jha, Debesh and Bagci, Ulas and Ali, Sharib},
+booktitle={MICCAI},
+year={2022}
+} 
+</pre>
 
 ## Contact
+Please contact nikhilroxtomar@gmail.com for any further questions. 

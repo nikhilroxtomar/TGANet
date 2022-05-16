@@ -36,10 +36,10 @@ You can download the weight file from the following links:
 
 ## 5. Citation
 <pre>
-@inproceedings{tomar2022,
+@inproceedings{tomar2022tganet
 title={TGANet: Text-guided attention for improved polyp segmentation},
 author={Tomar, Nikhil Kumar and Jha, Debesh and Bagci, Ulas and Ali, Sharib},
-booktitle={arXiv},
+booktitle={arXiv preprint arXiv:2205.04280},
 year={2022}
 } 
 </pre>

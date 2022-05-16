@@ -28,13 +28,13 @@ You can download the weight file from the following links:
 - [Kvasir-Sessile](https://drive.google.com/file/d/1vP8y5vMF_LlNgoXSAOmv2uXwujeIx6zC/view?usp=sharing)
 
 
-## 3. Quantative Results
+## 4. Quantative Results
 <img src="images/Quantative.png">
 
-## 4. Qualitative Results
+## 5. Qualitative Results
 <img src="images/TGA-PolySeg-Qualitative.jpg">
 
-## 5. Citation
+## 6. Citation
 <pre>
 @inproceedings{tomar2022tganet
 title={TGANet: Text-guided attention for improved polyp segmentation},

@@ -45,7 +45,7 @@ year={2022}
 </pre>
 
 ## 7. License
-The source code is free for research and education use only. Any comercial use should get formal permission first.
+The source code is free for research and education use only. Any comercial use should receive a formal permission from the first author.
 
 ## 8. Contact
 Please contact nikhilroxtomar@gmail.com for any further questions. 
